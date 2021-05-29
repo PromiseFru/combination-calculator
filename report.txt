@@ -1,0 +1,8 @@
+- The program finds all possible number of 12 words Combination from list of 2048 words using the formula n!(r!(n−r)!) 
+    where:-
+        n = total number of objects in the set
+        r = number of choosing objects from the set
+- The words are selected from the "words.txt" file
+- After obtaining the possible number of 12 words Combination from list of 2048 wordsm the program writes this word combinations to a file "output.txt"
+- The source code is in the "main.sh" file
+- Run the program using "bash main.sh" command
