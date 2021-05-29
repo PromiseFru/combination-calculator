@@ -3,9 +3,16 @@
 ### Instructions
 * create a words.txt file if non in the root directory 
 * Put all words in the words.txt seperated by a new line (ENTER KEY)
-* Run the program using the command 
+* Run the programs using the command below
+
+### Find combinations
 ```bash
-bash main.sh
+bash combinations.sh
+```
+
+### Print combinations
+```bash
+bash print.sh
 ```
 
 ### Objectives
